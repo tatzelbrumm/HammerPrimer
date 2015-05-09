@@ -70,6 +70,10 @@ System requirements:
 
 **Abstract**: JSON, JSON RPC introduced. Sent in HTTP POST request, so course will cover it as well.
 
+**References**: 
+* [Zed Shaw: A Painless Introduction To Finite State Machines](http://lamsonproject.org/docs/introduction_to_finite_state_machines.html)
+* [Zed Shaw: Ragel State Charts](http://zedshaw.com/archive/ragel-state-charts/)
+
 ## Lecture 3 - JSON RPC
 
 **URL**: [https://www.youtube.com/watch?v=dyuxoh2Jcm4](https://www.youtube.com/watch?v=dyuxoh2Jcm4&list=PLMAs0n8Mjs9o2I4KZ14gQr2osDsd3YPoT&index=3)
@@ -99,6 +103,10 @@ System requirements:
 **URL**: [https://www.youtube.com/watch?v=PzUKSID9aEI](https://www.youtube.com/watch?v=PzUKSID9aEI&index=7&list=PLMAs0n8Mjs9o2I4KZ14gQr2osDsd3YPoT)
 
 **Abstract**: HTTP Basic Authentication described.
+
+**References**: 
+* [RFC 2616: "Hypertext Transfer Protocol -- HTTP/1.1", June 1999](http://www.rfc-editor.org/info/rfc2616)
+* [RFC 2617: "HTTP Authentication: Basic and Digest Access Authentication", June 1999](http://www.rfc-editor.org/info/rfc2617)
 
 ## Lecture 8 - Installing Hammer
 
