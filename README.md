@@ -114,6 +114,13 @@ System requirements:
 
 **Abstract**: How to install hammer and its dependencies.
 
+**References**: 
+* [RFC 4648: "The Base16, Base32, and Base64 Data Encodings", October 2006](http://www.rfc-editor.org/info/rfc4648)
+* [RFC 1421: "Privacy Enhancement for Internet Electronic Mail: Part I: Message Encryption and Authentication Procedures", February 1993](http://www.rfc-editor.org/info/rfc1421)
+* [RFC 2045: "Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet Message Bodies", November 1996](http://www.rfc-editor.org/info/rfc2045)
+* [RFC 2440: "OpenPGP Message Format", November 1998](http://www.rfc-editor.org/info/rfc2440)
+* [RFC 4033: "DNS Security Introduction and Requirements", March 2005](http://www.rfc-editor.org/info/rfc4033)
+
 ## Lecture 9 - Why Base64?
 
 **URL**: [https://www.youtube.com/watch?v=tB7jRVM3Wf8](https://www.youtube.com/watch?v=tB7jRVM3Wf8&index=9&list=PLMAs0n8Mjs9o2I4KZ14gQr2osDsd3YPoT)
@@ -177,3 +184,8 @@ That is, HAction functions must also take a user_data whether or not they use it
 * [object.json](lecture_13/object.json)
 * [Makefile](lecture_13/Makefile)
 * [test_suite.h](lecture_13/test_suite.h)
+
+**References**:
+* [Introducing JSON](http://www.json.org/)
+* [ECMA-404 The JSON Data Interchange Standard](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
+
